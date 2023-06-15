@@ -1,4 +1,4 @@
-# CHange Log
+# Change Log
 
 ## Alpha 1.0.0
 
