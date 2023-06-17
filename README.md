@@ -5,6 +5,10 @@
 
 # Change Log
 
+## Alpha 1.0.1
+
+### Changed token limit to 6.
+
 ## Alpha 1.0.0
 
 ### The AI is now trained on Parts 1-4
