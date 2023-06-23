@@ -55,9 +55,9 @@ def main():
         end = time.time()
 
         # Print the result
-        print("\n\n> Question:")
+        print("\n\n> How can I help: ")
         print(query)
-        print(f"\n> Answer (took {round(end - start, 2)} s.):")
+        print(f"\n> Wow, this took me longer then it should have: (took {round(end - start, 2)} s.):")
         print(answer)
 
         # Print the relevant sources used for the answer
